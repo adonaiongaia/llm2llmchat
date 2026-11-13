@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=LLM2LLMChat
+GenericName=Local Model Arena
+Comment=Run one ordered, shared conversation between local language models
+Exec=llm2llmchat
+Icon=llm2llmchat
+Terminal=false
+Categories=Network;
+Keywords=LLM;AI;Ollama;LM Studio;llama.cpp;chat;arena;
+StartupNotify=true
+StartupWMClass=llm2llmchat
